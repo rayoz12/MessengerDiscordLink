@@ -1,0 +1,60 @@
+getUserInfo:
+{ '100000086718645':
+   { name: 'Ryan Pereira',
+     firstName: 'Ryan',
+     vanity: 'ryan.pereira.92372',
+     thumbSrc: 'https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-1/p32x32/19990253_1603442909668584_8219467906740848345_n.jpg?oh=d0a5d169e785fd86fa8f0621eecc097b&oe=5AAF8648',
+     profileUrl: 'https://www.facebook.com/ryan.pereira.92372',
+     gender: 2,
+     type: 'user',
+     isFriend: false,
+     isBirthday: false } }
+	 
+
+Message (not group):
+{ type: 'message',
+  senderID: '100000086718645',
+  body: 'so which one is better?',
+  threadID: '1659377751',
+  messageID: 'mid.$cAABa83dNYOJl5qjx2VftWON2r5mB',
+  attachments: [],
+  timestamp: '1510576728537',
+  isGroup: false }.
+
+Message (group):
+{ type: 'message',
+  senderID: '100000086718645',
+  body: 'so how many people so far?',
+  threadID: '965866873449366',
+  messageID: 'mid.$gAANuc2fka5Zl5sdioVftYH-kllxR',
+  attachments: [],
+  timestamp: '1510578723489',
+  isGroup: true }
+  
+ getThreadInfo:
+ { participantIDs:
+   [ '1540898914',
+     '1659377751',
+     '1754186465',
+     '100000156982297',
+     '100001334995411',
+     '100002722081399',
+     '100002941493939',
+     '100003550122662',
+     '100000086718645' ],
+  name: 'The Parable of the Good Saracen & Moor',
+  snippet: 'I\'ll see if i can install shogun in the mean while',
+  messageCount: 52512,
+  emoji: { emoji: '?' },
+  nicknames:
+   { '1540898914': 'Just Monika',
+     '1659377751': 'Teacher of the Law',
+     '1754186465': '.',
+     '100000156982297': 'Western power :O',
+     '100001334995411': 'You can\'t handle the truth!!!',
+     '100002722081399': '!#$@&%*!?',
+     '100002941493939': 'He Faked It. He Faked It!',
+     '100003550122662': 'jump out of the plane with me',
+     '100000086718645': '1700 Shades of Monika' },
+  color: '#44bec7',
+  lastReadTimestamp: 1510580637653 }
